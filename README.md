@@ -13,21 +13,26 @@ Ministry of Law and Justice
 1.User Authentication and Roles:
 >Secure login for different user roles (judges, lawyers, plaintiffs, defendants, clerks).
 >Role-based access control to ensure data privacy and security.
+
 2.Case Management System:
 >Dashboard for tracking case status, upcoming hearings, and deadlines.
 >Digital case files with easy upload and retrieval of documents.
 >Automated notifications and reminders for important dates.
+
 3.Hearing Scheduling and Management:
 >Calendar integration for scheduling hearings.
 >Virtual hearing capabilities with video conferencing tools.
 >Real-time updates on hearing schedules and changes.
+
 4.Document Management:
 >Secure storage and sharing of legal documents.
 >Version control and audit trails for document changes.
 >E-signature functionality for legal documents.
+
 5.Search and Analytics:
 >Advanced search functionality to quickly find cases and documents.
 >Analytics dashboard for insights on case progress and bottlenecks.
+
 6.User Support and Helpdesk:
 >Integrated helpdesk for user queries and technical support.
 >Tutorials and FAQs to assist users in navigating the portal.
